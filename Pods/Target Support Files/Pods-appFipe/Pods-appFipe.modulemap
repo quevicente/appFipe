@@ -1,0 +1,6 @@
+framework module Pods_appFipe {
+  umbrella header "Pods-appFipe-umbrella.h"
+
+  export *
+  module * { export * }
+}
